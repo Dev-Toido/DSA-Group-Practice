@@ -26,7 +26,7 @@
 
 4. Nature and Roots of a Quadratic Equation
     The standard form of a quadratic equation is given by ax^2 + bx + c = 0, where d = b^2 - 4ac is known as the discriminant that determines the nature of the roots of the equation as:
-    * If d \ge 0: Roots are real
+    * If d >= 0: Roots are real
     * If d < 0: Roots are imaginary
 
 
