@@ -32,7 +32,7 @@
 
     Task: Write a program to determine the nature and the roots of a quadratic equation, taking a, b, c as input. If d = b^2 - 4ac is greater than or equal to zero, then display 'Roots are real'; otherwise, display 'Roots are imaginary'. The roots are determined by the formulas:
 
-    [Formula](image.png)
+    ![Formula](image.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -207,7 +207,7 @@
 
 30. Pattern Generation Console Matrix
     Write individual programs to display the following requested console patterns:
-
+```text
     (a)                  (b)                  (c)
     1                    1  2  3  4  5        15 14 13 12 11
     3 1                  6  7  8  9           10 9  8  7
@@ -228,26 +228,27 @@
     * # *                5 4 3                4 5 6
     * # * #              5 4                  7 8 9 10
     * # * # *            5                    11 12 13 14 15
-
+```
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 31. Dynamic Triangle/Inverted Triangle 
     Write a program to generate a triangle or an inverted triangle till n terms based upon the user's choice.
+
     * Choice 1 (Normal Triangle Output):
     * Input Choice: 1, Number of terms: 5
     * *Output:*
-
+```text
     1
     2 2
     3 3 3
     4 4 4 4
     5 5 5 5 5
+```
 
 
 
 
-
-
+```text
     * Choice 2 (Inverted Triangle Output):
     * Input Choice: 2, Number of terms: 6
     * *Output:*
@@ -258,29 +259,32 @@
     3 3 3
     2 2
     1
-
+```
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 32. Menu-Driven Patterns 
     Using the switch statement, write a menu-driven program for the following layouts:
+
     * (a) To print Floyd's triangle:
 
+```text
     1
     2 3
     4 5 6
     7 8 9 10
     11 12 13 14 15
-
+```
 
 
 
     * (b) To display the word string pattern:
-
+    
+```text
     I
     I C
     I C S
     I C S E
-
+```
 
 
 
